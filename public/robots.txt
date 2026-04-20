@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nataliaurreag-bit.github.io/skillsdevalor/sitemap.xml
